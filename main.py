@@ -4,6 +4,7 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 # I changed this file
+# I added a comment!
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
